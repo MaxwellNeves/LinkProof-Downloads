@@ -1,6 +1,6 @@
 # LinkProof para Windows
 
-[Baixar o ZIP portátil mais recente](https://github.com/MaxwellNeves/LinkProof-Downloads/releases/latest)
+[Baixar o ZIP portátil mais recente](https://github.com/MaxwellNeves/LinkProof-Downloads/releases/download/v0.4.0-rc1/LinkProof-Windows.zip)
 
 Extraia a pasta `LinkProof` inteira do ZIP e execute `LinkProof.exe` dentro dela. Mantenha os demais arquivos e pastas ao lado do executável.
 
